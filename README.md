@@ -5,6 +5,7 @@ usage monitor for the macOS menu bar.
 
 ```sh
 brew tap omerdikyol/netmeter
+brew trust omerdikyol/netmeter
 brew install --cask netmeter
 ```
 
