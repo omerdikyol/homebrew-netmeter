@@ -1,4 +1,10 @@
-# NetMeter tap
+<h1 align="center">NetMeter tap</h1>
+
+<p align="center">
+  <img alt="Homebrew: cask" src="https://img.shields.io/badge/Homebrew-cask-FBB040">
+  <img alt="platform: macOS" src="https://img.shields.io/badge/platform-macOS-lightgrey">
+  <img alt="license: MIT OR Apache-2.0" src="https://img.shields.io/badge/license-MIT%20OR%20Apache--2.0-green">
+</p>
 
 Homebrew casks for [NetMeter](https://github.com/omerdikyol/netmeter), a network
 usage monitor for the macOS menu bar.
